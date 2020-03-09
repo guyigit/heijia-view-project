@@ -1,4 +1,4 @@
-# view-ui-project
+# heijia-view-project
 
 This project is build for Vue.js 2 + vue-router + webpack2 + View UI (iView) 4, just install and run.
 
